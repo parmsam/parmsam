@@ -1,5 +1,4 @@
-### Hi 👋
-### Here's how you can learn more about me 💬
+### Hi 👋 Here's how you can learn more about me 💬
 
 #### Here's my website: https://parmsam.github.io/ 🕸️
 #### Here's my blog: https://databreadcrumbs.com/ 📝
