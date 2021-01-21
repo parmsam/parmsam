@@ -1,7 +1,7 @@
 ### Hi 👋 Here's how you can learn more about me 💬
 
-#### Here's my website: https://parmsam.github.io/ 🕸️
-#### Here's my blog: https://databreadcrumbs.com/ 📝
+#### My website: https://parmsam.github.io/ 🕸️
+#### My blog: https://databreadcrumbs.com/ 📝
 <!--
 **parmsam/parmsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
