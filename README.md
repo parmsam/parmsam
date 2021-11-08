@@ -1,6 +1,6 @@
 ### Hi 👋 Here's how you can learn more about me 💬
 
-#### My blog: https://parmsam.medium.com/ and https://databreadcrumbs.com/ 📝
+#### My blog: https://parmsam.medium.com/ 📝
 <!--
 **parmsam/parmsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
