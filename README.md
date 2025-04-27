@@ -8,6 +8,5 @@
 - 📚 Check out my Quarto extensions [here](https://github.com/parmsam?tab=repositories&q=quarto+extension&type=&language=&sort=).
 - 🚀 Check out my LLM apps [here](https://connect.posit.cloud/parmsam) (with source code [here](https://github.com/parmsam?tab=repositories&q=llm-app&type=&language=&sort=)).
 - 🔧 See some of my tiny utility apps [here](https://parmsam.github.io/apps/).
-- 🤖 Kickstart your journey with AI Assistants using [my Short Guide](https://parmsam.github.io/tips-and-tricks-ai-tools/).
 - 🔔 Subscribe to [R Weekly](https://rweekly.org/) (via the [RSS Feed](https://rweekly.org/atom.xml) using [Feedrabbit](https://feedrabbit.com/)). I'm on [the editorial team](https://rweekly.org/about) and help curate the content.
 
